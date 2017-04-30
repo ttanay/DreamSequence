@@ -1,0 +1,25 @@
+.ptitle{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: bold;
+	font-size: 40px;
+	padding-top: 0.3%;
+	padding-bottom: 0.3%;
+	padding-left: 60%;
+	letter-spacing: 5px;
+	word-spacing: 18px;
+}
+p{
+	font-family: 'Inconsolata', monospace;
+	padding-left: 10%;
+	padding-right: 10%;
+	font-size: 18px;
+}
+.msg{
+	padding-top: 10%;
+	padding-left: 30%;
+}
+li{
+	float: left;
+	display: inline-block;
+	padding-left: 15px;
+}
