@@ -16,10 +16,14 @@ p{
 }
 .msg{
 	padding-top: 10%;
-	padding-left: 30%;
+	padding-left: 27%;
 }
 li{
 	float: left;
 	display: inline-block;
 	padding-left: 15px;
+}
+.sub{
+	padding-left: 45%;
+	padding-top: 2%;
 }
