@@ -6,7 +6,7 @@ var v3 = ["red","red","blue","red","white","red","red","blue","white","blue","re
 var v4 = ["white","white","blue","white","red","white","white","blue","red","blue","white","blue","white","red","blue","white","blue"];
 var v5 = ["red","red","white","red","blue","red","red","white","blue","white","red","white","red","blue","white","red","white"];
 var v6 = ["white","white","red","white","blue","white","white","red","blue","red","white","red","white","blue","red","white","red"];
-$(".s1").click(function()
+$("#s0").click(function()
 	{							
 		switch(cno[0])
 		{
@@ -24,7 +24,7 @@ $(".s1").click(function()
 		cno[0]++;
 		if (cno[0] > 3) {cno[0] = 1;}
 	});
-$(".s2").click(function()
+$("#s1").click(function()
 	{							
 		switch(cno[1])
 		{
@@ -42,7 +42,7 @@ $(".s2").click(function()
 		cno[1]++;
 		if (cno[1] > 3) {cno[1] = 1;}
 	});
-$(".s3").click(function()
+$("#s2").click(function()
 	{							
 		switch(cno[2])
 		{
@@ -60,7 +60,7 @@ $(".s3").click(function()
 		cno[2]++;
 		if (cno[2] > 3) {cno[2] = 1;}
 	});
-$(".s4").click(function()
+$("#s3").click(function()
 	{							
 		switch(cno[3])
 		{
@@ -78,7 +78,7 @@ $(".s4").click(function()
 		cno[3]++;
 		if (cno[3] > 3) {cno[3] = 1;}
 	});
-$(".s5").click(function()
+$("#s4").click(function()
 	{							
 		switch(cno[4])
 		{
@@ -96,7 +96,7 @@ $(".s5").click(function()
 		cno[4]++;
 		if (cno[4] > 3) {cno[4] = 1;}
 	});
-$(".s6").click(function()
+$("#s5").click(function()
 	{							
 		switch(cno[5])
 		{
@@ -114,7 +114,7 @@ $(".s6").click(function()
 		cno[5]++;
 		if (cno[5] > 3) {cno[5] = 1;}
 	});
-$(".s7").click(function()
+$("#s6").click(function()
 	{							
 		switch(cno[6])
 		{
@@ -132,7 +132,7 @@ $(".s7").click(function()
 		cno[6]++;
 		if (cno[6] > 3) {cno[6] = 1;}
 	});
-$(".s8").click(function()
+$("#s7").click(function()
 	{							
 		switch(cno[7])
 		{
@@ -150,7 +150,7 @@ $(".s8").click(function()
 		cno[7]++;
 		if (cno[7] > 3) {cno[7] = 1;}
 	});
-$(".s9").click(function()
+$("#s8").click(function()
 	{							
 		switch(cno[8])
 		{
@@ -168,7 +168,7 @@ $(".s9").click(function()
 		cno[8]++;
 		if (cno[8] > 3) {cno[8] = 1;}
 	});
-$(".s10").click(function()
+$("#s9").click(function()
 	{							
 		switch(cno[9])
 		{
@@ -186,7 +186,7 @@ $(".s10").click(function()
 		cno[9]++;
 		if (cno[9] > 3) {cno[9] = 1;}
 	});
-$(".s11").click(function()
+$("#s10").click(function()
 	{							
 		switch(cno[10])
 		{
@@ -204,7 +204,7 @@ $(".s11").click(function()
 		cno[10]++;
 		if (cno[10] > 3) {cno[10] = 1;}
 	});
-$(".s12").click(function()
+$("#s11").click(function()
 	{							
 		switch(cno[11])
 		{
@@ -222,7 +222,7 @@ $(".s12").click(function()
 		cno[11]++;
 		if (cno[11] > 3) {cno[11] = 1;}
 	});
-$(".s13").click(function()
+$("#s12").click(function()
 	{							
 		switch(cno[12])
 		{
@@ -240,7 +240,7 @@ $(".s13").click(function()
 		cno[12]++;
 		if (cno[12] > 3) {cno[12] = 1;}
 	});
-$(".s14").click(function()
+$("#s13").click(function()
 	{							
 		switch(cno[13])
 		{
@@ -258,7 +258,7 @@ $(".s14").click(function()
 		cno[13]++;
 		if (cno[13] > 3) {cno[13] = 1;}
 	});
-$(".s15").click(function()
+$("#s14").click(function()
 	{							
 		switch(cno[14])
 		{
@@ -276,7 +276,7 @@ $(".s15").click(function()
 		cno[14]++;
 		if (cno[14] > 3) {cno[14] = 1;}
 	});
-$(".s16").click(function()
+$("#s15").click(function()
 	{							
 		switch(cno[15])
 		{
@@ -294,7 +294,7 @@ $(".s16").click(function()
 		cno[15]++;
 		if (cno[15] > 3) {cno[15] = 1;}
 	});
-$(".s17").click(function()
+$("#s16").click(function()
 	{							
 		switch(cno[16])
 		{
